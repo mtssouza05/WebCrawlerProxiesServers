@@ -12,7 +12,7 @@ namespace Console_WebCrawler.Data.Banco
     static class BancoHelper
     {
 
-        private static string CaminhoDb = Path.Combine(Directory.GetCurrentDirectory(), "WebCrawlerDb"); 
+        private static string CaminhoDb = Path.Combine(Directory.GetCurrentDirectory(), "WebCrawlerDb.db"); 
         public static void CriaBanco()
         {
             SQLiteConnection.CreateFile(CaminhoDb);
@@ -28,7 +28,7 @@ namespace Console_WebCrawler.Data.Banco
                     Id INTEGER PRIMARY KEY AUTOINCREMENT,
                     DataInicio DATETIME NOT NULL,
                     DataFim DATETIME NOT NULL,
-                    QtdPagina INTEGER NOT NULL,
+                    NumPagina INTEGER NOT NULL,
                     QtdLinhas INTEGER NOT NULL,
                     JsonCaminho TEXT NOT NULL
                     );
@@ -45,6 +45,7 @@ namespace Console_WebCrawler.Data.Banco
           
         }
 
+        public static string RetornaStringConexao() => $"DataSource={CaminhoDb};Version=3;";
         public static string RetornaCaminhoDb() => CaminhoDb;
     }
 }

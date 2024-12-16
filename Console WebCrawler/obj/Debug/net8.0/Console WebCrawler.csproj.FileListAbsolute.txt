@@ -1,0 +1,49 @@
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Console WebCrawler.exe
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Console WebCrawler.deps.json
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Console WebCrawler.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Console WebCrawler.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Console WebCrawler.pdb
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.sourcelink.json
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console .120B3C76.Up2Date
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\refint\Console WebCrawler.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.pdb
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\Console WebCrawler.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\obj\Debug\net8.0\ref\Console WebCrawler.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\T-GAMER\source\repos\Console WebCrawler\Console WebCrawler\bin\Debug\net8.0\WebDriver.dll
