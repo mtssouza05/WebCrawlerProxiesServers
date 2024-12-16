@@ -17,7 +17,7 @@ Além disso, o programa salva os seguintes arquivos na pasta de saída:
 ## Informações Técnicas
 * Banco de Dados:
     O banco utilizado é o SQLite, escolhido para facilitar e agilizar o desenvolvimento.
-    Após a primeira execução, o arquivo do banco (WebCrawlerDb.db) será gerado      automaticamente na pasta bin. Neste banco, são armazenados os logs de cada execução do programa.
+    Após a primeira execução, o arquivo do banco (WebCrawlerDb.db) será gerado automaticamente na pasta bin/debug/net8.0. Neste banco, são armazenados os logs de cada execução do programa.
 
 * Tecnologias Utilizadas:
 
@@ -41,4 +41,4 @@ Após a execução do programa, o console exibirá:
 ## Como Executar
 Certifique-se de ter o .NET 8 instalado na máquina.
 Compile e execute o projeto.
-Os arquivos gerados estarão disponíveis na pasta bin.
+Os arquivos gerados estarão disponíveis na pasta bin/debug/net8.0.
