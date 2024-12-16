@@ -8,6 +8,7 @@ Os dados capturados são:
 * Port
 * Country
 * Protocol
+  
 Além disso, o programa salva os seguintes arquivos na pasta de saída:
 
 * Arquivos JSON contendo os dados coletados de cada página.
